@@ -4,9 +4,14 @@
 	
   </div>
 
+## Now I'm on:
+- DSC University of Seoul Lead
+- [42 Seoul](https://42seoul.kr/) Cadet
+- Programming Education (Python / Computational Thinking)
+
 ## Interest
 - Computational Thinking Education (for Beginners)
-- iOS Development (Swift/AutoLayout/RxSwift)
+- iOS Development (Swift / AutoLayout / RxSwift)
 - Artificial Intelligence (Reinforcement Learning)
 - Web App Development (Python/Django)
 
