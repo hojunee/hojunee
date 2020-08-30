@@ -6,7 +6,7 @@
 
 ## Now I'm on:
 - [DSC University of Seoul](https://www.notion.so/beetea/DSC-University-of-Seoul-8c0a80043025423993fb7eeea716200a) Lead
-- [42 Seoul](https://42seoul.kr/) Cadet
+- [42 Seoul](https://42seoul.kr/) Cadet **hojlee**
 - Programming Education (Python / Computational Thinking)
 
 ## Interest
