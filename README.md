@@ -15,4 +15,5 @@
 - Artificial Intelligence (Reinforcement Learning)
 - Web App Development (Python/Django)
 
+[![hojlee's 42 stats](https://badge42.herokuapp.com/api/stats/hojlee)](https://github.com/JaeSeoKim/badge42)
 [![beeetea's github stats](https://github-readme-stats.vercel.app/api?username=beeetea)](https://github.com/anuraghazra/github-readme-stats)
