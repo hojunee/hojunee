@@ -11,7 +11,7 @@
 
 ## Interest
 - Computational Thinking Education (for Beginners)
-- Artificial Intelligence (Reinforcement Learning)
+- Artificial Intelligence (Related to human being)
 - Web App Development (Python/Django)
 
 [![hojlee's 42 stats](https://badge42.herokuapp.com/api/stats/hojlee)](https://github.com/JaeSeoKim/badge42)
