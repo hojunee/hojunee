@@ -11,7 +11,6 @@
 
 ## Interest
 - Computational Thinking Education (for Beginners)
-- iOS Development (Swift / AutoLayout / RxSwift)
 - Artificial Intelligence (Reinforcement Learning)
 - Web App Development (Python/Django)
 
