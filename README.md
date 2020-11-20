@@ -1,7 +1,7 @@
   <div align=center>
 	
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbeeetea)](https://hits.seeyoufarm.com)
-	
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
+
   </div>
 
 ## Now I'm on:
