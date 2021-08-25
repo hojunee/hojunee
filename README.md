@@ -6,6 +6,7 @@
 
 ## Now I'm on:
 - RA on Object Detection (Crack Detection w. [R-CNN Based Model](https://arxiv.org/pdf/1906.09756.pdf))
+- X-TWICE Project (semi-autolabeling)
 - Programming Education (with various targets)
 
 ## Interest
