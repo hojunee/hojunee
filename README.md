@@ -5,9 +5,8 @@
   </div>
 
 ## Now I'm on:
-- RA on Object Detection (Crack Detection w. [R-CNN Based Model](https://arxiv.org/pdf/1906.09756.pdf))
-- Programming Education (with various targets)
 - Capstone Project (@strong_win)
+- Programming Education (with various targets)
 
 ## Interest
 - Interpretable Data Analysis (Visual Analytics / Data Analytics)
