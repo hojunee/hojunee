@@ -5,7 +5,7 @@
   </div>
 
 ## Now I'm on:
-- **EngPM Intern @ Google Korea** (~2022. 03)
+- **Intern @ Google Korea** (~2022. 03)
 - Programming Education (with various targets)
 
 ## Interest
