@@ -5,7 +5,7 @@
   </div>
 
 ## Now I'm on:
-- Capstone Project (@strong_win)
+- **EngPM Intern @ Google Korea** (~2022. 03)
 - Programming Education (with various targets)
 
 ## Interest
