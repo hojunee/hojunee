@@ -5,7 +5,7 @@
   </div>
 
 ## Now I'm on:
-- **Intern @ Google Korea** (~2022. 03)
+- Problem Solving
 - Programming Education (with various targets)
 
 ## Interest
